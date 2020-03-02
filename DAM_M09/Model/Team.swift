@@ -16,7 +16,7 @@ class Team: Object {
     @objc dynamic private var manager: String = ""
     @objc dynamic private var pais: String = ""
 
-    
+    //Este es un comentario nuevo
     
     convenience init(nombre:String, manager:String, pais:String) {
         self.init()
