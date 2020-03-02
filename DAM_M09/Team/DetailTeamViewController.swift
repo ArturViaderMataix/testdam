@@ -15,7 +15,7 @@ protocol TeamDelegate{
 class DetailTeamViewController: UIViewController {
     
     var team: Team! = nil
-    
+    //eo
     var delegateTeam: TeamDelegate?
     
     @IBOutlet weak var lNombre: UILabel!
