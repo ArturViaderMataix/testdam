@@ -11,7 +11,7 @@ import UIKit
 class TeamsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, TeamDelegate {
         
     @IBOutlet weak var tableView: UITableView!
-    
+    //eo
     var equipos:[Team] = []
     
     override func viewDidLoad() {
