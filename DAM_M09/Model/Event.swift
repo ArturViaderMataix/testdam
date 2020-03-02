@@ -18,7 +18,7 @@ class Event: Object{
     @objc dynamic private var numEtapas: Int = 0
     @objc dynamic private var km: Int = 0
 
-    //Este es otro comentario
+    //Hola Artur soy Oscar tu compañero
     
     convenience init(nombre:String, popularidad:Int, pais: String, numEtapas: Int, km: Int) {
         self.init()
