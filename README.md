@@ -81,6 +81,8 @@ El compañero también ha modificado la misma linea y al intentar subir los camb
 
 ![18](https://user-images.githubusercontent.com/53495320/75798346-b99fc080-5d76-11ea-8501-f08ae612f321.png)
 
+Después de esto le han aparecido en el proyecto las dos lineas y el ha decidido dejar las dos.
+
 Ha hecho git add . | git commit y git push origin master
 
 ![16](https://user-images.githubusercontent.com/53495320/75798222-8fe69980-5d76-11ea-9a81-8e036a5ac468.png)
